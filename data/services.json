@@ -1,0 +1,11 @@
+{
+  "eyebrow": "Paslaugos",
+  "heading": "Ką mes siūlome",
+  "intro": "Įmonė „LuxAura" siūlo profesionalius falcinių stogų sprendimus – nuo naujo stogo įrengimo iki seno renovacijos. Dirbame atsakingai, naudojame kokybiškas medžiagas ir užtikriname aukštą darbų kokybę.",
+  "items": [
+    { "title": "Falcinių stogų įrengimas", "desc": "Profesionalus falcinio stogo montavimas naudojant aukščiausios kokybės medžiagas naujų ir rekonstruojamų pastatų statybos projektuose." },
+    { "title": "Stogų renovacija", "desc": "Senų falcinių stogų atnaujinimas ir restauravimas. Puikus pasirinkimas dėl lengvumo ir ilgaamžiškumo." },
+    { "title": "Stogo konstrukcijų montavimas", "desc": "Stogo laikančiųjų konstrukcijų, grebėstų ir medinių elementų profesionalus montavimas ir tvirtinimas." },
+    { "title": "Skardinimo darbai", "desc": "Kaminų, stoglangių, lietvamzdžių ir lietaus nuvedimo sistemų įrengimas bei priežiūra." }
+  ]
+}

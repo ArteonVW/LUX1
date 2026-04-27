@@ -1,0 +1,12 @@
+{
+  "eyebrow": "Falcinis stogas",
+  "heading": "Kodėl verta rinktis falcinį stogą?",
+  "p1": "Falcinė stogo danga gaminama iš metalo lakštų, kurie tarpusavyje sujungiami specialiu būdu – užlenkiant kraštus (falcus). Ši technologija naudojama tiek moderniuose, tiek klasikiniuose pastatuose.",
+  "p2": "Tokia konstrukcija užtikrina išskirtinį sandarumą – nėra atvirų tvirtinimo vietų, todėl sumažėja pratekėjimo rizika net ir sudėtingiausiomis oro sąlygomis.",
+  "advantages": [
+    { "icon": "🔒", "title": "Išskirtinis sandarumas", "desc": "Nėra atvirų tvirtinimo vietų – sumažėja pratekėjimo rizika" },
+    { "icon": "⏳", "title": "Ilgaamžiškumas", "desc": "Tarnauja 40–60 metų ir ilgiau be didelių išlaidų" },
+    { "icon": "🌦️", "title": "Atsparumas orui", "desc": "Nebijo lietaus, sniego, vėjo ar temperatūros svyravimų" },
+    { "icon": "✦", "title": "Estetika", "desc": "Minimalizmas, švarios linijos, modernus dizainas" }
+  ]
+}
