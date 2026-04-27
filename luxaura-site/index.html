@@ -7,6 +7,17 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+    // Handle invite & recovery tokens — redirect to /admin/ so CMS can process them
+    if (window.location.hash && (
+      window.location.hash.includes('invite_token') ||
+      window.location.hash.includes('recovery_token') ||
+      window.location.hash.includes('confirmation_token') ||
+      window.location.hash.includes('access_token')
+    )) {
+      window.location.href = '/admin/' + window.location.hash;
+    }
+  </script>
   <style>
     :root {
       --black: #0a0a0a; --dark: #111214; --panel: #16181b;
